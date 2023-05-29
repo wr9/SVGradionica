@@ -1,0 +1,11 @@
+.star {
+  transition: opacity 300ms ease;
+}
+
+.visible {
+  opacity: 1;
+}
+
+.invisible {
+  opacity: 0;
+}

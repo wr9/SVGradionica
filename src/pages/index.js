@@ -1,12 +1,12 @@
 import { useState } from "react";
 
-import Sky from "src/components/Sky";
+import Sky from "src/components/animated/Sky";
 import BuildingsSilhouette from "src/components/BuildingsSilhouette";
-import Windows from "src/components/Windows";
-import Sun from "src/components/Sun";
-import NeonSign from "src/components/NeonSign";
-import Moon from "src/components/Moon";
-import Stars from "src/components/Stars";
+import Windows from "src/components/animated/Windows";
+import Sun from "src/components/animated/Sun";
+import NeonSign from "src/components/animated/NeonSign";
+import Moon from "src/components/animated/Moon";
+import Stars from "src/components/animated/Stars";
 
 export default function Home() {
   const [timeOfDay, setTimeOfDay] = useState("morning");

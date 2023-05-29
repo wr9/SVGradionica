@@ -1,0 +1,21 @@
+.neonSign {
+  path {
+    transition: stroke-dashoffset 500ms ease-in, stroke 300ms ease-in,
+      fill 300ms ease-in;
+    stroke-dasharray: 100;
+  }
+}
+
+.visible {
+  path {
+    stroke-dashoffset: 0;
+    stroke: transparent;
+    fill: #61bde3;
+  }
+}
+
+.invisible {
+  path {
+    stroke-dashoffset: 100;
+  }
+}

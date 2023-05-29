@@ -1,0 +1,11 @@
+.moon {
+  transition: opacity 300ms ease-in;
+}
+
+.visible {
+  opacity: 1;
+}
+
+.invisible {
+  opacity: 0;
+}
