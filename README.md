@@ -1,3 +1,25 @@
+Dodatni linkovi koje smo spominjali na radionici:
+
+https://mavo.io/demos/svgpath/ - vizualni path builder
+
+https://svg-path-visualizer.netlify.app/ - odlicno pojasnjavanje path-a
+
+https://codepen.io/anthonydugois/pen/mewdyZ - vizualizacija kontrolnih tocaka krivulja
+
+https://developer.mozilla.org/en-US/docs/Glossary/Bezier_curve i https://www.jasondavies.com/animated-bezier/ - ilustracije Bezier krivulja
+
+
+Efekt kad svg crta sam sebe:
+https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/stroke-dasharray
+
+https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/stroke-dashoffset
+
+https://codepen.io/andmitsch/pen/ZYMyXj - primjer
+ 
+https://codepen.io/yoksel/pen/XJbzrO - primjer
+
+***
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
